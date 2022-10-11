@@ -1,9 +1,7 @@
 package zad1;
 
 import javax.swing.*;
-import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
-import java.awt.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -40,10 +38,18 @@ public class CountryTable {
         table = new JTable(){
             @Override
             public Class<?> getColumnClass(int column){
-                if(convertColumnIndexToModel(column)==2){
-                    return Integer.class;
+                switch (column) {
+                    case 0:
+                        return String.class;
+                    case 1:
+                        return String.class;
+                    case 2:
+                        return Long.class;
+                    case 3:
+                        return Icon.class;
+                    default:
+                        return String.class;
                 }
-                return super.getColumnClass(column);
             }
         };
         table.setModel(model);
