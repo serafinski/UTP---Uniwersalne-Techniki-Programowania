@@ -1,0 +1,4 @@
+Name	Capital	Population
+Republic of Poland	Warsaw	38500
+Chech Republic	Prague	10500
+Kingdom of Spain	Madrid	46599
