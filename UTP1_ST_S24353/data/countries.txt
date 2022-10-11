@@ -1,4 +1,240 @@
-Name	Capital	Population
-Republic of Poland	Warsaw	38500
-Chech Republic	Prague	10500
-Kingdom of Spain	Madrid	46599
+Name	Capital	Population	Flags
+China 	Beijing	21542000	
+Japan 	Tokyo	13921000	
+DR Congo	Kinshasa	12691000	
+Russia 	Moscow	12655050	
+Indonesia 	Jakarta	10562088	
+Egypt 	Cairo	10107125	
+South Korea 	Seoul	9508451	
+Mexico	Mexico City	9209944	
+United Kingdom 	London	9002488	
+Bangladesh 	Dhaka	8906039	
+Peru 	Lima	8852000	
+Iran 	Tehran	8693706	
+Thailand	Bangkok	8305218	
+Vietnam	Hanoi	8053663	
+Iraq	Baghdad	7682136	
+Saudi Arabia	Riyadh	7676654	
+Hong Kong (China)	Hong Kong	7403100	
+Colombia	Bogotá	7181469	
+Chile 	Santiago	6310000	
+Turkey 	Ankara	5747325	
+Singapore	Singapore	5453600	
+Afghanistan 	Kabul	4601789	
+Kenya	Nairobi	4397073	
+Jordan	Amman	4061150	
+Algeria 	Algiers	3915811	
+Germany 	Berlin	3677472	
+Spain 	Madrid	3305408	
+Ethiopia 	Addis Ababa	3040740	
+Kuwait	Kuwait City	2989000	
+Guatemala	Guatemala City	2934841	
+South Africa	Pretoria	2921488	
+Ukraine 	Kyiv	2920873	
+Argentina 	Buenos Aires	2891082	
+North Korea 	Pyongyang	2870000	
+Uzbekistan 	Tashkent	2860600	
+Italy 	Rome	2761632	
+Ecuador	Quito	2800388	
+Cameroon	Yaoundé	2765568	
+Zambia	Lusaka	2731696	
+Sudan 	Khartoum	2682431	
+Brazil 	Brasília	2648532	
+Taiwan 	Taipei (de facto)	2608332	
+Yemen	Sanaa	2575347	
+Angola	Luanda	2571861	
+Burkina Faso	Ouagadougou	2453496	
+Ghana	Accra	2388000	
+Somalia	Mogadishu	2388000	
+Azerbaijan	Baku	2300500	
+Cambodia	Phnom Penh	2281951	
+Venezuela	Caracas	2245744	
+Romania 	Bucharest	2161347	
+France 	Paris	2139907	
+Cuba	Havana	2132183	
+Zimbabwe	Harare	2123132	
+Syria	Damascus	2079000	
+Belarus	Minsk	1996553	
+Austria	Vienna	1962779	
+Philippines 	Manila	1846513	
+Mali	Bamako	1809106	
+Poland	Warsaw	1792718	
+Malaysia 	Kuala Lumpur	1782500	
+Hungary 	Budapest	1706851	
+Congo	Brazzaville	1696392	
+Serbia 	Belgrade	1688667	
+Uganda	Kampala	1680600	
+Guinea	Conakry	1660973	
+Mongolia	Ulaanbaatar	1466125	
+Honduras	Tegucigalpa	1444085	
+Senegal	Dakar	1438725	
+Niger 	Niamey	1334984	
+Uruguay	Montevideo	1319108	
+Bulgaria 	Sofia	1307439	
+Oman	Muscat	1294101	
+Czech Republic 	Prague	1275406	
+Madagascar	Antananarivo	1275207	
+Kazakhstan 	Astana	1239900	
+Nigeria	Abuja	1235880	
+Georgia	Tbilisi	1201769	
+Mauritania 	Nouakchott	1195600	
+Qatar 	Doha	1186023	
+Libya	Tripoli	1170000	
+Myanmar	Naypyidaw	1160242	
+Rwanda	Kigali	1132686	
+Mozambique	Maputo	1124988	
+Dominican Republic	Santo Domingo	1111838	
+Armenia 	Yerevan	1096100	
+Kyrgyzstan	Bishkek	1074075	
+Sierra Leone	Freetown	1055964	
+Nicaragua	Managua	1055247	
+Canada 	Ottawa	1017449	
+Pakistan 	Islamabad	1014825	
+Liberia	Monrovia	1010970	
+United Arab Emirates	Abu Dhabi	1010092	
+Malawi	Lilongwe	989318	
+Haiti	Port-au-Prince	98731	
+Sweden 	Stockholm	97877	
+Eritrea	Asmara	963	
+Israel 	Jerusalem[a]	936425	
+Laos	Vientiane	927724	
+Chad	N'Djamena	916	
+Netherlands 	Amsterdam	905234	
+Central African Republic	Bangui	889231	
+Panama	Panama City	880691	
+Tajikistan 	Dushanbe	8634	
+Nepal 	Kathmandu	845767	
+Togo	Lomé	837437	
+Turkmenistan	Ashgabat	791	
+Moldova	Chişinău	7793	
+Croatia 	Zagreb	769944	
+Gabon	Libreville	703904	
+Norway 	Oslo	69701	
+Macau (China)	Macau	6832	
+United States 	Washington, D.C.	67005	
+Jamaica	Kingston	662491	
+Finland 	Helsinki	658864	
+Tunisia	Tunis	638845	
+Denmark 	Copenhagen	638117	
+Greece 	Athens	637798	
+Latvia 	Riga	605802	
+Djibouti	Djibouti (city)	604013	
+Morocco	Rabat	577827	
+Lithuania	Vilnius	576195	
+El Salvador	San Salvador	570459	
+Albania	Tirana	557422	
+Ireland 	Dublin	554554	
+North Macedonia	Skopje	544086	
+South Sudan 	Juba	525953	
+Paraguay	Asunción	521559	
+Portugal 	Lisbon	509614	
+Guinea-Bissau	Bissau	492004	
+Slovakia	Bratislava	440948	
+Estonia 	Tallinn	438341	
+Australia 	Canberra	43138	
+Namibia	Windhoek	431	
+Tanzania	Dodoma	410956	
+Papua New Guinea	Port Moresby	364145	
+Ivory Coast	Yamoussoukro	361893	
+Lebanon	Beirut	361366	
+Bolivia	Sucre	360544	
+Puerto Rico (US)	San Juan	342259	
+Costa Rica	San José	342188	
+Lesotho	Maseru	33076	
+Cyprus	Nicosia	326739	
+Equatorial Guinea 	Malabo	297	
+Slovenia 	Ljubljana	285604	
+East Timor	Dili	277279	
+Bosnia and Herzegovina	Sarajevo	275524	
+Bahamas	Nassau	2744	
+Botswana	Gaborone	273602	
+Benin	Porto-Novo	26432	
+Suriname	Paramaribo	240924	
+India 	New Delhi	249998	
+Sahrawi Arab Democratic Republic	Laayoune (claimed)	217732	
+New Zealand 	Wellington	217	
+Bahrain	Manama	200	
+Kosovo 	Pristina	198897	
+Montenegro 	Podgorica	190488	
+Belgium	Brussels	187686	
+Cape Verde	Praia	15905	
+Mauritius	Port Louis	147066	
+Curaçao (Netherlands)	Willemstad	13666	
+Burundi	Gitega	135467	
+Switzerland 	Bern (de facto)	134591	
+Transnistria	Tiraspol	133807	
+Maldives	Malé	133412	
+Iceland 	Reykjavík	133262	
+Luxembourg 	Luxembourg City	124509	
+Guyana	Georgetown	118363	
+Bhutan	Thimphu	114551	
+Comoros	Moroni	111326	
+Barbados	Bridgetown	110	
+Sri Lanka	Sri Jayawardenepura Kotte	107925	
+Brunei	Bandar Seri Begawan	1007	
+Eswatini	Mbabane	94874	
+New Caledonia (France)	Nouméa	94285	
+Fiji	Suva	9397	
+Solomon Islands	Honiara	92344	
+Republic of Artsakh	Stepanakert	75	
+Gambia	Banjul	73	
+Sao Tomé and Príncipe	Sao Tomé	71868	
+Kiribati	Tarawa	7048	
+Vanuatu	Port Vila	51437	
+Northern Mariana Islands (USA)	Saipan	47565	
+Samoa	Apia	41611	
+Palestine	Ramallah (de facto)	38998	
+Monaco	Monaco	3835	
+Jersey (UK)	Saint Helier	3754	
+Trinidad and Tobago	Port of Spain	37074	
+Cayman Islands (UK)	George Town	34399	
+Gibraltar (UK)	Gibraltar	34003	
+Grenada	St. George's	33734	
+Aruba (Netherlands)	Oranjestad	28294	
+Isle of Man (UK)	Douglas	27938	
+Marshall Islands	Majuro	27797	
+Tonga	Nuku‘alofa	276	
+Seychelles	Victoria	2645	
+French Polynesia (France)	Papeete	26926	
+Andorra	Andorra la Vella	22873	
+Faroe Islands  (Denmark)	Tórshavn	22738	
+Antigua and Barbuda	St. John's	22219	
+Belize	Belmopan	20621	
+Saint Lucia	Castries	20	
+Guernsey (UK)	Saint Peter Port	18958	
+Greenland (Denmark)	Nuuk	188	
+Dominica	Roseau	14725	
+Saint Kitts and Nevis	Basseterre	14	
+Saint Vincent and the Grenadines	Kingstown	12909	
+British Virgin Islands (UK)	Road Town	12603	
+Aland (Finland)	Mariehamn	11736	
+U.S. Virgin Islands (US)	Charlotte Amalie	14477	
+Micronesia	Palikir	6647	
+Tuvalu	Funafuti	632	
+Malta	Valletta	5827	
+Liechtenstein	Vaduz	5774	
+Saint Pierre and Miquelon (France)	Saint-Pierre	5394	
+Cook Islands (NZ)	Avarua	4906	
+San Marino	City of San Marino	4061	
+Turks and Caicos Islands (UK)	Cockburn Town	372	
+American Samoa (USA)	Pago Pago	3656	
+Saint Martin (France)	Marigot	3229	
+Saint Barthélemy (France)	Gustavia	2615	
+Falkland Islands (UK)	Stanley	246	
+Svalbard (Norway)	Longyearbyen	2417	
+Sint Maarten (Netherlands)	Philipsburg	1894	
+Christmas Island (Australia)	Flying Fish Cove	1599	
+Anguilla (UK)	The Valley	1067	
+Guam (US)	Hagatna	1051	
+Wallis and Futuna (France)	Mata Utu	1029	
+Bermuda (UK)	Hamilton	854	
+Nauru	Yaren (de facto)	747	
+Saint Helena (UK)	Jamestown	629	
+Niue (NZ)	Alofi	597	
+Tokelau (NZ)	Atafu	541	
+Vatican City	Vatican City (city-state)	453	
+Montserrat (UK)	Brades (de facto)	449	
+Palau	Ngerulmud	271	
+Cocos (Keeling) Islands (Australia)	West Island	134	
+Pitcairn Islands (UK)	Adamstown	40	
+South Georgia and the South Sandwich Islands (UK)	King Edward Point	22	
