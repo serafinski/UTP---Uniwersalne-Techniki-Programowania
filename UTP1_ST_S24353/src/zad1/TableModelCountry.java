@@ -6,11 +6,10 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
-import java.util.Arrays;
 
 public class TableModelCountry extends AbstractTableModel {
 
-    private Object dane[][];
+    private final Object[][] dane;
 
     public String[] naglowki;
 
@@ -27,20 +26,22 @@ public class TableModelCountry extends AbstractTableModel {
         BufferedReader bufferedReader = new BufferedReader(fileReader);
         String line = bufferedReader.readLine();
         naglowki = line.split("\t");
-        System.out.println(Arrays.toString(naglowki));
+
+
         for (int i = 0; i < dane.length; i++) {
             line = bufferedReader.readLine();
-            if (line!= null){
-                Object tmp[] = line.split("\t");
-                for(int j = 0; j<dane[i].length;j++){
+            if (line != null) {
+                Object[] tmp = line.split("\t");
+                for (int j = 0; j < dane[i].length; j++) {
                     dane[i][j] = tmp[j];
+                    if (j == 3) {
+                        dane[i][j] = new ImageIcon("data/flags/" + tmp[j] + ".png");
+                    }
                 }
-            }
-            else {
+            } else {
                 break;
             }
         }
-        System.out.println(Arrays.deepToString(dane));
     }
 
     @Override
@@ -64,8 +65,7 @@ public class TableModelCountry extends AbstractTableModel {
     }
 
     @Override
-    public boolean isCellEditable(int rowIndex, int columnIndex)
-    {
+    public boolean isCellEditable(int rowIndex, int columnIndex) {
         return true;
     }
 

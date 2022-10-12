@@ -5,28 +5,29 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class CountryTable extends JTable{
+public class CountryTable extends JTable {
 
     private final String countriesFileName;
 
-    public CountryTable(String countriesFileName)  {
+    public CountryTable(String countriesFileName) {
         this.countriesFileName = countriesFileName;
     }
 
     public JTable create() throws IOException {
 
-        Path path = Paths.get(countriesFileName);
+        Path sciezka = Paths.get(countriesFileName);
 
-        TableModelCountry tableModelCountry = new TableModelCountry(path);
+        TableModelCountry tableModelCountry = new TableModelCountry(sciezka);
 
         tableModelCountry.start();
 
-        JTable table = new JTable(tableModelCountry){
+
+        return new JTable(tableModelCountry) {
             @Override
-            public Class<?> getColumnClass(int column){
+            public Class<?> getColumnClass(int column) {
                 switch (column) {
                     case 2:
-                        return Integer.class;
+                        return Long.class;
                     case 3:
                         return Icon.class;
                     case 0:
@@ -36,6 +37,5 @@ public class CountryTable extends JTable{
                 }
             }
         };
-        return table;
     }
 }
