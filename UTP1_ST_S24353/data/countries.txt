@@ -1,196 +1,191 @@
 Name	Capital	Population	Flags
-Afghanistan	Kabul	32890171	
-Albania	Tirana	2829741	
-Algeria	Algiers	45400000	
-Andorra	Andorra la Vella	79535	
-Angola	Luanda	33086278	
-Antigua and Barbuda	St. John's	99337	
-Argentina	Buenos Aires	47327407	
-Armenia	Yerevan	2963900	
-Australia	Canberra	25980112	
-Austria	Vienna	9061848	
-Azerbaijan	Baku	10185784	
-Bahamas	Nassau	39345	
-Bahrain	Manama	1501635	
-Bangladesh	Dhaka	165158616	
-Barbados	Bridgetown	288	
-Belarus	Minsk	9255524	
-Belgium	Brussels	11671737	
-Belize	Belmopan	430191	
-Benin	Porto-Novo	12506347	
-Bhutan	Thimphu	7632	
-Bolivia	Sucre	11797257	
-Bosnia and Herzegovina	Sarajevo	3320954	
-Botswana	Gaborone	2410338	
-Brazil	Brasília	215250552	
-Brunei	Bandar Seri Begawan	429999	
-Bulgaria	Sofia	6520314	
-Burkina Faso	Ouagadougou	21510181	
-Burundi	Gitega	12574571	
-Cambodia	Phnom Penh	15552211	
-Cameroon	Yaoundé	24348251	
-Canada	Ottawa	38969205	
-Cape Verde	Praia	563198	
-Central African Republic	Bangui	5633412	
-Chad	N'Djamena	16818391	
-Chile	Santiago	19678363	
-China	Beijing	1412600000	
-Colombia	Bogotá	51049498	
-Comoros	Moroni	758316	
-Congo	Brazzaville	5657000	
-Costa Rica	San José	5163038	
-Croatia	Zagreb	3888529	
-Cuba	Havana	11113215	
-Cyprus	Nicosia	9181	
-Czech Republic	Prague	10493986	
-Denmark	Copenhagen	5910577	
-Djibouti	Djibouti (city)	976107	
-Dominica	Roseau	72	
-Dominican Republic	Santo Domingo	10535535	
-DR Congo	Kinshasa	95241000	
-East Timor	Dili	1317780	
-Ecuador	Quito	18079996	
-Egypt	Cairo	103936135	
-El Salvador	San Salvador	6825935	
-Equatorial Guinea	Malabo	1505588	
-Eritrea	Asmara	3601000	
-Estonia	Tallinn	1331796	
-Eswatini	Mbabane	1172000	
-Ethiopia	Addis Ababa	105163988	
-Fiji	Suva	898402	
-Finland	Helsinki	5522135	
-France	Paris	67939000	
-Gabon	Libreville	2233272	
-Gambia	Banjul	2487000	
-Georgia	Tbilisi	3688600	
-Germany	Berlin	84079811	
-Ghana	Accra	30832019	
-Greece	Athens	10432481	
-Grenada	St. George's	113	
-Guatemala	Guatemala City	17109746	
-Guinea	Conakry	12907395	
-Guinea-Bissau	Bissau	1646077	
-Guyana	Georgetown	743699	
-Haiti	Port-au-Prince	11743017	
-Honduras	Tegucigalpa	9546178	
-Hungary	Budapest	9689000	
-Iceland	Reykjavík	38137	
-India	New Delhi	1375586000	
-Indonesia	Jakarta	275773800	
-Iran	Tehran	85846464	
-Iraq	Baghdad	41190700	
-Ireland	Dublin	5123536	
-Israel	Jerusalem[a]	9588380	
-Italy	Rome	58853482	
-Ivory Coast	Yamoussoukro	29389150	
-Jamaica	Kingston	2734093	
-Japan	Tokyo	125927902	
-Jordan	Amman	11316924	
-Kazakhstan	Astana	19325376	
-Kenya	Nairobi	47564296	
-Kiribati	Tarawa	12074	
-Kuwait	Kuwait City	4670713	
-Kyrgyzstan	Bishkek	6800000	
-Laos	Vientiane	7337783	
-Latvia	Riga	1893400	
-Lebanon	Beirut	6769000	
-Lesotho	Maseru	2159000	
-Liberia	Monrovia	4661010	
-Libya	Tripoli	7054493	
-Liechtenstein	Vaduz	39315	
-Lithuania	Vilnius	2830097	
-Luxembourg	Luxembourg City	645397	
-Madagascar	Antananarivo	26923353	
-Malawi	Lilongwe	21507723	
-Malaysia	Kuala Lumpur	32745200	
-Maldives	Malé	383135	
-Mali	Bamako	21474000	
-Malta	Valletta	519562	
-Marshall Islands	Majuro	54516	
-Mauritania	Nouakchott	4271197	
-Mauritius	Port Louis	1266334	
-Mexico	Mexico City	128533664	
-Micronesia	Palikir	105754	
-Moldova	Chişinău	2597100	
-Monaco	Monaco	3915	
-Mongolia	Ulaanbaatar	3461706	
-Montenegro	Podgorica	621306	
-Morocco	Rabat	36745787	
-Mozambique	Maputo	31616078	
-Myanmar	Naypyidaw	55294979	
-Namibia	Windhoek	2550226	
-Nauru	Yaren (de facto)	11832	
-Nepal	Kathmandu	29192480	
-Netherlands	Amsterdam	17751910	
-New Zealand	Wellington	5130037	
-Nicaragua	Managua	6595674	
-Niger	Niamey	24112753	
-Nigeria	Abuja	216747000	
-North Korea	Pyongyang	25660000	
-North Macedonia	Skopje	1832696	
-Norway	Oslo	5455582	
-Oman	Muscat	4527446	
-Pakistan	Islamabad	229489000	
-Palau	Ngerulmud	17957	
-Palestine	Ramallah (de facto)	5227193	
-Panama	Panama City	4278500	
-Papua New Guinea	Port Moresby	9122994	
-Paraguay	Asunción	7353038	
-Peru	Lima	33396698	
-Philippines	Manila	112537459	
-Poland	Warsaw	37996000	
-Portugal	Lisbon	10344802	
-Qatar	Doha	2799202	
-Romania	Bucharest	19038098	
-Russia	Moscow	145100000	
-Rwanda	Kigali	12955768	
-Saint Kitts and Nevis	Basseterre	54072	
-Saint Lucia	Castries	178696	
-Saint Vincent and the Grenadines	Kingstown	110696	
-Samoa	Apia	199853	
-San Marino	City of San Marino	33776	
-São Tomé and Príncipe	Sao Tomé	21461	
-Saudi Arabia	Riyadh	35013414	
-Senegal	Dakar	17223497	
-Serbia	Belgrade	6797105	
-Seychelles	Victoria	99202	
-Sierra Leone	Freetown	8297882	
-Singapore	Singapore	5453600	
-Slovakia	Bratislava	5434712	
-Slovenia	Ljubljana	2108977	
-Solomon Islands	Honiara	728041	
-Somalia	Mogadishu	16360000	
-South Africa	Pretoria	60604992	
-South Korea	Seoul	51638809	
-South Sudan	Juba	13249924	
-Spain	Madrid	47432805	
-Sri Lanka	Sri Jayawardenepura Kotte	22156000	
-Sudan	Khartoum	44822610	
-Suriname	Paramaribo	598	
-Sweden	Stockholm	10493565	
-Switzerland	Bern (de facto)	8770283	
-Syria	Damascus	18276000	
-Tajikistan	Dushanbe	9506000	
-Tanzania	Dodoma	61280743	
-Thailand	Bangkok	66845880	
-Togo	Lomé	7886000	
-Tonga	Nuku‘alofa	99532	
-Trinidad and Tobago	Port of Spain	1367558	
-Tunisia	Tunis	11803588	
-Turkey	Ankara	84680273	
-Turkmenistan	Ashgabat	6118000	
-Tuvalu	Funafuti	10679	
-Uganda	Kampala	42885900	
-Ukraine	Kyiv	41130432	
-United Arab Emirates	Abu Dhabi	9282410	
-United Kingdom	London	67081234	
-United States	Washington, D.C.	331893745	
-Uruguay	Montevideo	3554915	
-Uzbekistan	Tashkent	35817829	
-Vanuatu	Port Vila	301295	
-Vatican City	Vatican City (city-state)	825	
-Venezuela	Caracas	29267000	
-Vietnam	Hanoi	98506193	
-Yemen	Sanaa	31155000	
-Zambia	Lusaka	18400556	
-Zimbabwe	Harare	15178979	
+Afghanistan	Kabul	32890171	AF
+Albania	Tirana	2829741	AL
+Algeria	Algiers	45400000	DZ
+Andorra	Andorra la Vella	79535	AD
+Angola	Luanda	33086278	AO
+Antigua and Barbuda	St. John's	99337	AG
+Argentina	Buenos Aires	47327407	AR
+Armenia	Yerevan	2963900	AM
+Australia	Canberra	25980112	AU
+Austria	Vienna	9061848	AT
+Azerbaijan	Baku	10185784	AZ
+Bahamas	Nassau	39345	BS
+Bahrain	Manama	1501635	BH
+Bangladesh	Dhaka	165158616	BD
+Barbados	Bridgetown	288	BB
+Belarus	Minsk	9255524	BY
+Belgium	Brussels	11671737	BE
+Belize	Belmopan	430191	BZ
+Benin	Porto-Novo	12506347	BJ
+Bhutan	Thimphu	7632	BT
+Bolivia	Sucre	11797257	BO
+Bosnia and Herzegovina	Sarajevo	3320954	BA
+Botswana	Gaborone	2410338	BW
+Brazil	Brasília	215250552	BR
+Brunei	Bandar Seri Begawan	429999	BN
+Bulgaria	Sofia	6520314	BG
+Burkina Faso	Ouagadougou	21510181	BF
+Burundi	Gitega	12574571	BI
+Cambodia	Phnom Penh	15552211	KH
+Cameroon	Yaoundé	24348251	CM
+Canada	Ottawa	38969205	CA
+Central African Republic	Bangui	5633412	CF
+Chad	N'Djamena	16818391	TD
+Chile	Santiago	19678363	CL
+China	Beijing	1412600000	CN
+Colombia	Bogotá	51049498	CO
+Comoros	Moroni	758316	KM
+Congo	Brazzaville	5657000	CD
+Costa Rica	San José	5163038	CR
+Croatia	Zagreb	3888529	HR
+Cuba	Havana	11113215	CU
+Cyprus	Nicosia	9181	CY
+Czech Republic	Prague	10493986	CZ
+Denmark	Copenhagen	5910577	DK
+Djibouti	Djibouti (city)	976107	DJ
+Dominica	Roseau	72	DM
+Dominican Republic	Santo Domingo	10535535	DO
+Ecuador	Quito	18079996	EC
+Egypt	Cairo	103936135	EG
+El Salvador	San Salvador	6825935	SV
+Equatorial Guinea	Malabo	1505588	GQ
+Eritrea	Asmara	3601000	ER
+Estonia	Tallinn	1331796	EE
+Eswatini	Mbabane	1172000	SZ
+Ethiopia	Addis Ababa	105163988	ET
+Fiji	Suva	898402	FJ
+Finland	Helsinki	5522135	FI
+France	Paris	67939000	FR
+Gabon	Libreville	2233272	GA
+Gambia	Banjul	2487000	GM
+Georgia	Tbilisi	3688600	GE
+Germany	Berlin	84079811	DE
+Ghana	Accra	30832019	GH
+Greece	Athens	10432481	GR
+Grenada	St. George's	113	GD
+Guatemala	Guatemala City	17109746	GT
+Guinea	Conakry	12907395	GN
+Guinea-Bissau	Bissau	1646077	GW
+Guyana	Georgetown	743699	GY
+Haiti	Port-au-Prince	11743017	HT
+Honduras	Tegucigalpa	9546178	HN
+Hungary	Budapest	9689000	HU
+Iceland	Reykjavík	38137	IS
+India	New Delhi	1375586000	IN
+Indonesia	Jakarta	275773800	ID
+Iran	Tehran	85846464	IR
+Iraq	Baghdad	41190700	IQ
+Ireland	Dublin	5123536	IE
+Israel	Jerusalem[a]	9588380	IL
+Italy	Rome	58853482	IT
+Jamaica	Kingston	2734093	JM
+Japan	Tokyo	125927902	JP
+Jordan	Amman	11316924	JO
+Kazakhstan	Astana	19325376	KZ
+Kenya	Nairobi	47564296	KE
+Kiribati	Tarawa	12074	KI
+Kuwait	Kuwait City	4670713	KW
+Kyrgyzstan	Bishkek	6800000	KG
+Laos	Vientiane	7337783	LA
+Latvia	Riga	1893400	LV
+Lebanon	Beirut	6769000	LB
+Lesotho	Maseru	2159000	LS
+Liberia	Monrovia	4661010	LR
+Libya	Tripoli	7054493	LY
+Liechtenstein	Vaduz	39315	LI
+Lithuania	Vilnius	2830097	LT
+Luxembourg	Luxembourg City	645397	LU
+Madagascar	Antananarivo	26923353	MG
+Malawi	Lilongwe	21507723	MW
+Malaysia	Kuala Lumpur	32745200	MY
+Maldives	Malé	383135	MV
+Mali	Bamako	21474000	ML
+Malta	Valletta	519562	MT
+Marshall Islands	Majuro	54516	MH
+Mauritania	Nouakchott	4271197	MR
+Mauritius	Port Louis	1266334	MU
+Mexico	Mexico City	128533664	MX
+Micronesia	Palikir	105754	FM
+Moldova	Chişinău	2597100	MD
+Monaco	Monaco	3915	MC
+Mongolia	Ulaanbaatar	3461706	MN
+Montenegro	Podgorica	621306	ME
+Morocco	Rabat	36745787	MA
+Mozambique	Maputo	31616078	MZ
+Myanmar	Naypyidaw	55294979	MM
+Namibia	Windhoek	2550226	NA
+Nauru	Yaren (de facto)	11832	NR
+Nepal	Kathmandu	29192480	NP
+Netherlands	Amsterdam	17751910	NL
+New Zealand	Wellington	5130037	NZ
+Nicaragua	Managua	6595674	NI
+Niger	Niamey	24112753	NE
+Nigeria	Abuja	216747000	NG
+North Korea	Pyongyang	25660000	KP
+North Macedonia	Skopje	1832696	MK
+Norway	Oslo	5455582	NO
+Oman	Muscat	4527446	OM
+Pakistan	Islamabad	229489000	PK
+Palau	Ngerulmud	17957	PW
+Palestine	Ramallah (de facto)	5227193	PS
+Panama	Panama City	4278500	PA
+Papua New Guinea	Port Moresby	9122994	PG
+Paraguay	Asunción	7353038	PY
+Peru	Lima	33396698	PE
+Philippines	Manila	112537459	PH
+Poland	Warsaw	37996000	PL
+Portugal	Lisbon	10344802	PT
+Qatar	Doha	2799202	QA
+Romania	Bucharest	19038098	RO
+Russia	Moscow	145100000	RU
+Rwanda	Kigali	12955768	RW
+Saint Kitts and Nevis	Basseterre	54072	KN
+Saint Lucia	Castries	178696	LC
+Saint Vincent and the Grenadines	Kingstown	110696	VC
+Samoa	Apia	199853	WS
+San Marino	City of San Marino	33776	SM
+São Tomé and Príncipe	Sao Tomé	21461	ST
+Saudi Arabia	Riyadh	35013414	SA
+Senegal	Dakar	17223497	SN
+Serbia	Belgrade	6797105	RS
+Seychelles	Victoria	99202	SC
+Sierra Leone	Freetown	8297882	SL
+Singapore	Singapore	5453600	SG
+Slovakia	Bratislava	5434712	SK
+Slovenia	Ljubljana	2108977	SI
+Solomon Islands	Honiara	728041	SB
+Somalia	Mogadishu	16360000	SO
+South Africa	Pretoria	60604992	ZA
+South Korea	Seoul	51638809	KR
+South Sudan	Juba	13249924	SS
+Spain	Madrid	47432805	ES
+Sri Lanka	Sri Jayawardenepura Kotte	22156000	LK
+Sudan	Khartoum	44822610	SD
+Suriname	Paramaribo	598	SR
+Sweden	Stockholm	10493565	SE
+Switzerland	Bern (de facto)	8770283	CH
+Syria	Damascus	18276000	SY
+Tajikistan	Dushanbe	9506000	TJ
+Tanzania	Dodoma	61280743	TZ
+Thailand	Bangkok	66845880	TH
+Togo	Lomé	7886000	TG
+Tonga	Nuku‘alofa	99532	TO
+Trinidad and Tobago	Port of Spain	1367558	TT
+Tunisia	Tunis	11803588	TN
+Turkey	Ankara	84680273	TR
+Turkmenistan	Ashgabat	6118000	TM
+Tuvalu	Funafuti	10679	TV
+Uganda	Kampala	42885900	UG
+Ukraine	Kyiv	41130432	UA
+United Arab Emirates	Abu Dhabi	9282410	AE
+United Kingdom	London	67081234	GB
+United States	Washington, D.C.	331893745	US
+Uruguay	Montevideo	3554915	UY
+Uzbekistan	Tashkent	35817829	UZ
+Vanuatu	Port Vila	301295	VU
+Venezuela	Caracas	29267000	VE
+Vietnam	Hanoi	98506193	VN
+Yemen	Sanaa	31155000	YE
+Zambia	Lusaka	18400556	ZM
+Zimbabwe	Harare	15178979	ZW
