@@ -35,7 +35,7 @@ public class TableModelCountry extends AbstractTableModel {
                 for (int j = 0; j < dane[i].length; j++) {
                     dane[i][j] = tmp[j];
                     if(j==2){
-                        dane[i][j] = Integer.parseInt((String) tmp[j]);
+                        dane[i][j] = Long.parseLong((String) tmp[j]);
                     }
                     if (j == 3) {
                         dane[i][j] = new ImageIcon("data/flags/" + tmp[j] + ".png");
@@ -66,11 +66,4 @@ public class TableModelCountry extends AbstractTableModel {
     public Object getValueAt(int rowIndex, int columnIndex) {
         return dane[rowIndex][columnIndex];
     }
-
-//    @Override
-//    public boolean isCellEditable(int rowIndex, int columnIndex) {
-//        return true;
-//    }
-
-
 }

@@ -23,12 +23,12 @@ public class CountryTable extends JTable {
 
         tableModelCountry.start();
 
-        JTable table = new JTable(tableModelCountry){
+        JTable table = new JTable(tableModelCountry) {
             @Override
             public Class<?> getColumnClass(int column) {
                 switch (column) {
                     case 2:
-                        return Integer.class;
+                        return Long.class;
                     case 3:
                         return ImageIcon.class;
                     case 0:
@@ -39,24 +39,23 @@ public class CountryTable extends JTable {
             }
         };
 
-        table.setDefaultRenderer(Integer.class, new DefaultTableCellRenderer(){
+        table.setDefaultRenderer(Long.class, new DefaultTableCellRenderer() {
 
             @Override
-            public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column){
-                if(value != null){
-                    Component component = super.getTableCellRendererComponent(table,value,isSelected,hasFocus,row,column);
-                    component.setForeground(((Integer)value) > 20000000 ? Color.red : Color.BLACK);
+            public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {
+                if (value != null) {
+                    Component component = super.getTableCellRendererComponent(table, value, isSelected, hasFocus, row, column);
+                    if ((Long) value > 20000000)
+                        component.setForeground(Color.RED);
+                    else
+                        component.setForeground(Color.BLACK);
                     return component;
-                }else{
+                } else {
                     return null;
                 }
             }
 
         });
-
         return table;
-
-        //return new JTable(tableModelCountry) {
-
-        };
     }
+}
