@@ -34,7 +34,7 @@ public class TableModelCountry extends AbstractTableModel {
                 Object[] tmp = line.split("\t");
                 for (int j = 0; j < dane[i].length; j++) {
                     dane[i][j] = tmp[j];
-                    if(j==2){
+                    if (j == 2) {
                         dane[i][j] = Long.parseLong((String) tmp[j]);
                     }
                     if (j == 3) {
