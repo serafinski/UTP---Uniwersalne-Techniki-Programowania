@@ -36,11 +36,11 @@ public class StringTask implements Runnable {
             case -1:
                 return TaskState.CREATED;
             case 0:
+            default:
                 return TaskState.ABORTED;
             case 1:
                 return TaskState.RUNNING;
             case 2:
-            default:
                 return TaskState.READY;
         }
     }

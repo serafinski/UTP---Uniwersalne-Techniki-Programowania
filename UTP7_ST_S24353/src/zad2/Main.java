@@ -9,7 +9,7 @@ package zad2;
 
 public class Main {
   public static void main(String[] args) throws InterruptedException {
-    StringTask task = new StringTask("Y", 50000);
+    StringTask task = new StringTask("A", 70000);
     System.out.println("Task " + task.getState());
     task.start();
 
